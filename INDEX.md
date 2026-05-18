@@ -1,7 +1,7 @@
 # Annotated Warrant — Index
 
 Source: [Official 2026 Annotated Town Warrant](https://arlingtonma.primegov.com/Portal/Meeting?meetingTemplateId=1659)  
-<small>Last synced on Monday, May 18 at 3:18PM</small>.
+<small>Last synced on Monday, May 18 at 5:00PM</small>.
 
 | # | Title | Requested By | Attachments |
 | ---: | --- | --- | ---: |
@@ -79,7 +79,7 @@ Source: [Official 2026 Annotated Town Warrant](https://arlingtonma.primegov.com/
 | 73 | [APPROPRIATION / COMMITTEES AND COMMISSIONS](./articles/Article-73/index.md) | Town Manager | 1 |
 | 74 | [APPROPRIATION / TOWN CELEBRATIONS AND EVENTS](./articles/Article-74/index.md) | Town Manager | 1 |
 | 75 | [APPROPRIATION / MISCELLANEOUS](./articles/Article-75/index.md) | Town Manager | 1 |
-| 76 | [APPROPRIATION / WATER BODIES FUND](./articles/Article-76/index.md) | Envision Arlington Standing Committee and its Spy Pond and Reservoir Task Groups, and the Arlington Conservation Commission | 1 |
+| 76 | [APPROPRIATION / WATER BODIES FUND](./articles/Article-76/index.md) | Envision Arlington Standing Committee and its Spy Pond and Reservoir Task Groups, and the Arlington Conservation Commission | 2 |
 | 77 | [APPROPRIATION / COMMUNITY PRESERVATION FUND](./articles/Article-77/index.md) | Community Preservation Act Committee | 1 |
 | 78 | [APPROPRIATION / HARRY BARBER COMMUNITY SERVICE PROGRAM](./articles/Article-78/index.md) | Council on Aging | 1 |
 | 79 | [APPROPRIATION / PRIVATE WAY REPAIRS REVOLVING FUNDS](./articles/Article-79/index.md) | Town Manager | 1 |

@@ -11,6 +11,7 @@ To see if the Town will vote to appropriate a sum of money to the Town’s Water
 ## Resources
 
 - [Full Text](full-text/index.md)
+- [Article 76 David White Materials](article-76-david-white-materials/index.md)
 
 ## External Links
 
