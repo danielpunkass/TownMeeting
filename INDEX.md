@@ -1,7 +1,7 @@
 # Annotated Warrant — Index
 
 Source: [Official 2026 Annotated Town Warrant](https://arlingtonma.primegov.com/Portal/Meeting?meetingTemplateId=1659)  
-<small>Last synced on Friday, May 15 at 12:26PM</small>.
+<small>Last synced on Monday, May 18 at 3:18PM</small>.
 
 | # | Title | Requested By | Attachments |
 | ---: | --- | --- | ---: |
@@ -56,7 +56,7 @@ Source: [Official 2026 Annotated Town Warrant](https://arlingtonma.primegov.com/
 | 50 | [ZONING BYLAW AMENDMENT / AMENDMENT TO ARLINGTON ZONING MAP](./articles/Article-50/index.md) | Mary Winstanley and ten registered voters | 2 |
 | 51 | [ZONING BYLAW AMENDMENT / AMENDMENT TO ZONING BYLAW TABLE OF DIMENSIONAL AND DENSITY REGULATIONS](./articles/Article-51/index.md) | Mary Winstanley and ten registered voters | 1 |
 | 52 | [ZONING BYLAW AMENDMENT / REZONING OF CERTAIN PARCELS FROM R-1 TO R-2](./articles/Article-52/index.md) | Stephen McKenna and ten registered voters | 3 |
-| 53 | [ZONING BYLAW AMENDMENT / ADMINISTRATIVE CLARIFICATION TO BONUS PROVISIONS FOR MULTI-FAMILY DEVELOPMENT](./articles/Article-53/index.md) | Joanne Cullinane and Larry Slotnick and ten registered voters | 17 |
+| 53 | [ZONING BYLAW AMENDMENT / ADMINISTRATIVE CLARIFICATION TO BONUS PROVISIONS FOR MULTI-FAMILY DEVELOPMENT](./articles/Article-53/index.md) | Joanne Cullinane and Larry Slotnick and ten registered voters | 19 |
 | 54 | [ZONING BYLAW AMENDMENT / TRAFFIC VISIBILITY](./articles/Article-54/index.md) | Caitlin Monaghan and ten registered voters | 4 |
 | 55 | [ZONING BYLAW AMENDMENT / ADMINISTRATIVE CLARIFICATION TO BONUS PROVISIONS FOR MULTI-FAMILY DEVELOPMENT](./articles/Article-55/index.md) | Aram Hollman and ten registered voters | 6 |
 | 56 | [ZONING BYLAW AMENDMENT / DEVELOPMENT STANDARDS – OFF STREET PARKING AND BICYCLE PARKING](./articles/Article-56/index.md) | Neal Mongold and ten registered voters | 1 |
@@ -95,7 +95,7 @@ Source: [Official 2026 Annotated Town Warrant](https://arlingtonma.primegov.com/
 | 89 | [RESOLUTION / HYBRID TOWN MEETING](./articles/Article-89/index.md) | Alexander Bagnall and ten registered voters | 1 |
 | 90 | [RESOLUTION / COMPREHENSIVE PLAN ENDORSEMENT](./articles/Article-90/index.md) | Department of Planning and Community Development | 4 |
 | 91 | [RESOLUTION / MEDICARE FOR ALL](./articles/Article-91/index.md) | Greg Dennis and ten registered voters | 4 |
-| 92 | [RESOLUTION / TRANSITIONING TO CLEAN HEAT IN MASSACHUSETTS](./articles/Article-92/index.md) | Patrick Hanlon and ten registered voters | 4 |
+| 92 | [RESOLUTION / TRANSITIONING TO CLEAN HEAT IN MASSACHUSETTS](./articles/Article-92/index.md) | Patrick Hanlon and ten registered voters | 5 |
 | 93 | [RESOLUTION / DESIGNATING ARLINGTON A 4TH AMENDMENT WORKPLACE COMMUNITY](./articles/Article-93/index.md) | Linda Hanson and Elizabeth Dray and ten registered voters | 3 |
 | 94 | [RESOLUTION / AUTOMATIC LICENSE PLATE RECOGNITION SAFEGUARDS AND DRIVER PRIVACY](./articles/Article-94/index.md) | Samuel Polk and ten registered voters | 6 |
 | 95 | [RESOLUTION / CONCERNING ICE FACILITY](./articles/Article-95/index.md) | Guillermo Hamlin and ten registered voters | 3 |

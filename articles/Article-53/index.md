@@ -27,6 +27,8 @@ To see if the Town will vote to amend Section 5.8.4.E(1) Bonuses, of the Zoning 
 - [Article 53 Stephen Revilak Materials](article-53-stephen-revilak-materials/index.md)
 - [Article 53 Ratnakar Vellanki Materials](article-53-ratnakar-vellanki-materials/index.md)
 - [Article 53 Andrew Fischer Materials](article-53-andrew-fischer-materials/index.md)
+- [Article 53 Eugene Benson Materials](article-53-eugene-benson-materials/index.md)
+- [Article 53 Diane Mahon Materials](article-53-diane-mahon-materials/index.md)
 
 ## External Links
 

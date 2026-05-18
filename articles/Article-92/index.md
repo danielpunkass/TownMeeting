@@ -10,6 +10,7 @@ To see if the Town will vote to support the creation of a strategic plan for the
 
 - [Full Text](full-text/index.md)
 - [Article 92 Hanlon Main Motion](article-92-hanlon-main-motion/index.md)
+- [Article 92 Patrick Hanlon Materials](article-92-patrick-hanlon-materials/index.md)
 - [Article 92 Clean Energy Future Committee Statement](article-92-clean-energy-future-committee-statement/index.md)
 - [Article 92 Marina Popova Materials](article-92-marina-popova-materials/index.md)
 
