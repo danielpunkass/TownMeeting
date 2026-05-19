@@ -24,7 +24,14 @@ on:
     # 03:55 UTC Tue/Thu. UTC hours 0–3 inclusive give us the full
     # window. If a future meeting cycle ever runs during EST this
     # would slip an hour earlier locally — adjust then.
-    - cron: "*/5 0-3 * * 2,4"
+    #
+    # Two entries (one per session day) instead of `2,4` because
+    # GitHub Actions' scheduler has been observed to silently drop
+    # crons with combined day-of-week lists after periods of inactivity
+    # (e.g., across the multi-day gap between sessions); splitting into
+    # two simple entries kept them registered through the meeting cycle.
+    - cron: "*/5 0-3 * * 2"
+    - cron: "*/5 0-3 * * 4"
   workflow_dispatch:
 
 permissions:
