@@ -2670,7 +2670,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 18, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 732,

@@ -1,5 +1,7 @@
 # Article 55: ZONING BYLAW AMENDMENT / ADMINISTRATIVE CLARIFICATION TO BONUS PROVISIONS FOR MULTI-FAMILY DEVELOPMENT
 
+!!! success "Passed on May 18, 2026"
+
 _Inserted at the request of Aram Hollman and ten registered voters_
 
 ## Description
