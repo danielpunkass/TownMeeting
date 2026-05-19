@@ -1030,6 +1030,10 @@ def write_root_pages(archive_dir, articles):
         fh.write("\n".join(lines) + "\n")
 
 
+ALL_UPDATES_FILENAME = "all-updates.md"
+RECENT_UPDATES_VISIBLE_LIMIT = 10
+
+
 def write_recent_updates_pages(archive_dir):
     """Write `articles/recent-updates/.pages` declaring the section
     title and the per-file nav order (newest first).
@@ -1038,17 +1042,59 @@ def write_recent_updates_pages(archive_dir):
     nav entries against the items at the current directory level using
     a basename-keyed lookup, so subdirectory paths from elsewhere
     wouldn't match.
+
+    Caps the sidebar at the newest `RECENT_UPDATES_VISIBLE_LIMIT`
+    per-sync entries; when there are more, appends a "Show All" entry
+    pointing at `all-updates.md`, which `write_all_updates_page`
+    regenerates each sync to list every changeLog entry on one page.
     """
     recent_dir = os.path.join(archive_dir, ARTICLES_SUBDIR, RECENT_UPDATES_DIR)
-    files = sorted(
-        (f for f in os.listdir(recent_dir) if f.endswith(".md")),
+    per_sync = sorted(
+        (f for f in os.listdir(recent_dir)
+         if f.endswith(".md") and f != ALL_UPDATES_FILENAME),
         reverse=True,
     )
+    visible = per_sync[:RECENT_UPDATES_VISIBLE_LIMIT]
+    has_overflow = len(per_sync) > RECENT_UPDATES_VISIBLE_LIMIT
+
     lines = ['title: "Recent Updates"', "nav:"]
-    for f in files:
+    for f in visible:
         lines.append(f"  - {f}")
+    if has_overflow:
+        lines.append(f"  - Show All: {ALL_UPDATES_FILENAME}")
     with open(os.path.join(recent_dir, ".pages"), "w") as fh:
         fh.write("\n".join(lines) + "\n")
+
+
+def write_all_updates_page(archive_dir, change_log):
+    """Render every changeLog entry into a single `all-updates.md` page.
+
+    Linked from the sidebar's "Show All" entry once the per-sync list
+    spills past `RECENT_UPDATES_VISIBLE_LIMIT`. Always written when the
+    changeLog is non-empty so the page is reachable by URL even before
+    overflow kicks in.
+    """
+    recent_dir = os.path.join(archive_dir, ARTICLES_SUBDIR, RECENT_UPDATES_DIR)
+    if not change_log:
+        return
+    os.makedirs(recent_dir, exist_ok=True)
+
+    lines = ["# All Updates", ""]
+    for entry in sorted(change_log, key=lambda e: e["syncedAt"], reverse=True):
+        dt = datetime.datetime.fromisoformat(entry["syncedAt"])
+        try:
+            local_dt = dt.astimezone(ZoneInfo("America/New_York"))
+            pretty = local_dt.strftime("%B %-d, %Y, %-I:%M %p")
+        except Exception:
+            pretty = dt.strftime("%B %-d, %Y, %-I:%M %p UTC")
+        lines.append(f"## {pretty}")
+        lines.append("")
+        for ev in entry.get("events", []):
+            lines.append(_event_line(ev))
+        lines.append("")
+
+    with open(os.path.join(recent_dir, ALL_UPDATES_FILENAME), "w") as fh:
+        fh.write("\n".join(lines))
 
 
 def write_index_md(archive_dir, articles, synced_at):
@@ -1418,6 +1464,7 @@ def sync():
         json.dump(manifest, fh, indent=2)
         fh.write("\n")
 
+    write_all_updates_page(archive_dir, change_log)
     write_index_md(archive_dir, articles, synced_at)
     write_root_pages(archive_dir, articles)
     write_readme(archive_dir)
@@ -1522,6 +1569,7 @@ def sync_progress_only():
         json.dump(manifest, fh, indent=2)
         fh.write("\n")
 
+    write_all_updates_page(archive_dir, change_log)
     write_index_md(archive_dir, articles, synced_at)
     write_root_pages(archive_dir, articles)
     print(f"\nWrote manifest to {manifest_path}")
