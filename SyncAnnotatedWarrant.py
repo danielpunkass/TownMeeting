@@ -586,26 +586,14 @@ def sha256_of_file(path):
     return h.hexdigest()
 
 
-def extract_pdf_text(pdf_path):
-    """Run `pdftotext` to extract the text content of a PDF.
-
-    Returns the extracted text bytes on success, or None if the tool
-    isn't on PATH, exits non-zero, or times out. Layout-mode is left
-    off intentionally — we want the textual content, not a column-
-    preserving rendering that's more sensitive to font metric changes.
-    """
-    try:
-        result = subprocess.run(
-            ["pdftotext", "-q", "-enc", "UTF-8", pdf_path, "-"],
-            capture_output=True,
-            timeout=60,
-            check=False,
-        )
-    except (FileNotFoundError, subprocess.TimeoutExpired):
-        return None
-    if result.returncode != 0:
-        return None
-    return result.stdout
+_PDF_VOLATILE_PATTERNS = (
+    # /ID is two angle-bracketed hex strings in the trailer; primegov
+    # rotates these on every republish.
+    (re.compile(rb"/ID\s*\[\s*<[^>]*>\s*<[^>]*>\s*\]"), b"/ID[<0><0>]"),
+    # ModDate / CreationDate are also rotated on republish for some PDFs.
+    (re.compile(rb"/ModDate\s*\([^)]*\)"), b"/ModDate()"),
+    (re.compile(rb"/CreationDate\s*\([^)]*\)"), b"/CreationDate()"),
+)
 
 
 def content_hash_for_file(path):
@@ -613,28 +601,25 @@ def content_hash_for_file(path):
 
     The change-detection key for attachments. Primegov regenerates the
     "View full text of Article" PDFs on every meeting republish — same
-    article text, but bytes differ (probably an embedded generation
-    timestamp). Hashing the raw bytes would flag every attachment as
-    "replaced" on each republish, defeating the whole filter.
+    article text, but bytes differ in the PDF trailer's /ID array and
+    the ModDate/CreationDate metadata. Hashing the raw bytes would
+    flag every attachment as "replaced" on each republish, defeating
+    the whole filter.
 
-    For PDFs, extract the text via pdftotext, *normalize whitespace*
-    (collapse every run of whitespace to a single space, strip ends),
-    then hash. The normalization is the load-bearing piece: pdftotext
-    output isn't stable across poppler-utils versions — line-breaking
-    and exact spacing drift between versions, which already burned us
-    once when the ubuntu runner's package updated overnight and fired
-    `replaced_attachment` events for ~all attachments. Collapsing
-    whitespace makes the hash insensitive to that drift while still
-    catching genuine text changes.
+    For PDFs, canonicalize the volatile metadata (replace /ID, /ModDate,
+    /CreationDate with fixed sentinel values) and hash the result. This
+    is a pure-Python normalization with no external dependency, so it
+    cannot drift the way pdftotext+whitespace did across poppler-utils
+    versions (which previously bit us twice).
 
-    For non-PDF attachments (or when pdftotext is unavailable /
-    fails), fall back to byte-hash, which is the best we can do.
+    For non-PDF attachments, fall back to a plain byte-hash.
     """
     if path.lower().endswith(".pdf"):
-        text = extract_pdf_text(path)
-        if text is not None:
-            normalized = re.sub(rb"\s+", b" ", text).strip()
-            return hashlib.sha256(normalized).hexdigest()
+        with open(path, "rb") as fh:
+            data = fh.read()
+        for pattern, replacement in _PDF_VOLATILE_PATTERNS:
+            data = pattern.sub(replacement, data)
+        return hashlib.sha256(data).hexdigest()
     return sha256_of_file(path)
 
 

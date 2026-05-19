@@ -50,17 +50,6 @@ jobs:
       - name: Pre-pull pdf2htmlEX Docker image
         run: docker pull pdf2htmlex/pdf2htmlex:0.18.8.rc2-master-20200820-ubuntu-20.04-x86_64
 
-      # pdftotext (poppler-utils) extracts plain text from PDFs so
-      # the sync can hash the *text* (which is stable across primegov
-      # republishes) rather than the raw bytes (which aren't —
-      # primegov regenerates PDFs with a fresh timestamp on each
-      # republish, so byte-hashes flagged every attachment as
-      # "replaced" on every republish). The package is in the
-      # ubuntu-latest default image, but install explicitly so a
-      # future image change doesn't silently break content-hashing.
-      - name: Install poppler-utils for pdftotext
-        run: sudo apt-get install -y --no-install-recommends poppler-utils
-
       # Always run sync. Even on push events the working tree needs the
       # per-attachment `index.md` files (gitignored since they're pure
       # build artifacts) populated before `mkdocs build`, and only the
