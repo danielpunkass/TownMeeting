@@ -16,6 +16,7 @@ attachments whose historyId has changed (or which are new). Files for
 attachments that no longer exist upstream are removed.
 """
 
+import copy
 import datetime
 import hashlib
 import html
@@ -1448,7 +1449,12 @@ def sync_progress_only():
         sys.exit(1)
     with open(manifest_path) as fh:
         prior = json.load(fh)
-    articles = prior.get("articles", [])
+    # Deep-copy the articles list so the upcoming in-place mutation of
+    # status/disposition doesn't also clobber the snapshot we hand to
+    # compute_change_events. Without this, prior and manifest share the
+    # same dict objects and the diff sees no change — every
+    # status_change is silently dropped.
+    articles = copy.deepcopy(prior.get("articles", []))
     print(f"Loaded {len(articles)} articles from index.json")
 
     progress = fetch_article_progress()
