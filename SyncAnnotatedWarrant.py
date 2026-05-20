@@ -2,10 +2,6 @@
 """
 Sync the Arlington Town Meeting Annotated Warrant from primegov.com.
 
-Vendored copy for the ArlingtonAnnotatedWarrant mirror repo. The canonical
-copy lives in the parent TMM project; the only difference is ARCHIVE_DIR,
-which here points at the repo root so the script writes alongside itself.
-
 The Annotated Warrant is a living document: articles, descriptions, requesters,
 and supporting attachments evolve as Town Meeting approaches and proceeds.
 This script is idempotent — re-run it anytime to pull the latest state.

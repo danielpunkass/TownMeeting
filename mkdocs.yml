@@ -2,9 +2,9 @@ site_name: Arlington Annotated Warrant
 site_description: >-
   Searchable mirror of the Arlington Town Meeting Annotated Warrant —
   per-article descriptions, requesters, and supporting attachments.
-site_url: https://danielpunkass.github.io/ArlingtonAnnotatedWarrant/
-repo_url: https://github.com/danielpunkass/ArlingtonAnnotatedWarrant
-repo_name: ArlingtonAnnotatedWarrant
+site_url: https://townmeeting.app/
+repo_url: https://github.com/danielpunkass/TownMeeting
+repo_name: TownMeeting
 edit_uri: ""
 
 # `_site_build/` is a staging directory the deploy workflow populates with
@@ -71,5 +71,5 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/danielpunkass/ArlingtonAnnotatedWarrant
+      link: https://github.com/danielpunkass/TownMeeting
   generator: false

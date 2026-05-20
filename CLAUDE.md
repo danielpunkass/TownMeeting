@@ -6,8 +6,6 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 This repo is a **public mirror** of the Arlington Town Meeting Annotated Warrant from `arlingtonma.primegov.com`. It holds `SyncAnnotatedWarrant.py` (the canonical sync, with `ARCHIVE_DIR = "."` so it writes alongside itself), plus a GitHub Actions workflow that runs the sync on a schedule, builds the static site with MkDocs Material, and deploys to GitHub Pages.
 
-Two Pages deploys run live concurrently against the same source content (different `mkdocs.yml` `site_url`, otherwise byte-identical output): this repo at <https://danielpunkass.github.io/ArlingtonAnnotatedWarrant/>, and the sibling `ArlingtonAnnotatedWarrant-Site` repo at <https://townmeeting.app/>. After each successful Pages deploy here, `sync.yml`'s `dispatch-mirror` job fires a `repository_dispatch` event at the sibling so it rebuilds against the freshly-pushed content.
-
 The Annotated Warrant is a *living* document on primegov: articles, descriptions, requesters, and supporting attachments evolve as Town Meeting approaches and proceeds. The sync is designed to be re-run repeatedly and only commit real changes.
 
 ## Commands
@@ -60,7 +58,7 @@ The sync needs Python 3.9+ (for `zoneinfo`) and either a local `pdf2htmlEX` bina
 - *Settings → Actions → General → Workflow permissions* must be "Read and write permissions" for the sync push step.
 - *Settings → Pages → Source* must be "GitHub Actions" or `deploy-pages` returns HTTP 404.
 
-**Custom domain.** This repo's Pages currently has no custom domain — it serves at `https://danielpunkass.github.io/ArlingtonAnnotatedWarrant/`. `townmeeting.app` lives on the sibling `-Site` repo's Pages settings. There is no `CNAME` file in either repo: actions-based deploys read the custom domain from Pages settings, not from a file in the artifact.
+**Custom domain.** This repo's Pages are served at the custom domain `https://townmeeting.app`. There is no `CNAME` file: actions-based deploys read the custom domain from Pages settings, not from a file in the artifact.
 
 **pdf2htmlEX Docker image.** The workflow pre-pulls `pdf2htmlex/pdf2htmlex:0.18.8.rc2-master-20200820-ubuntu-20.04-x86_64` once before sync. We use the **ubuntu** variant, not the alpine one — alpine's iconv lacks Mac Roman encoding, which produces near-blank HTML for any PDF using that encoding (which warrant attachments often do). If you ever change the image tag, delete every `articles/**/*.pdf.html` first; the script's skip-if-html-exists logic doesn't know about image-version mismatches.
 
