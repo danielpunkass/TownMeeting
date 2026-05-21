@@ -1,7 +1,7 @@
 {
   "source": "https://arlingtonma.primegov.com/Portal/Meeting?meetingTemplateId=1659",
   "meetingTemplateId": 1659,
-  "lastSynced": "2026-05-19T03:28:18+00:00",
+  "lastSynced": "2026-05-21T00:33:13+00:00",
   "articleCount": 95,
   "articles": [
     {
@@ -3022,7 +3022,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 20, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 739,
@@ -4749,6 +4756,20 @@
           "fromLabel": null,
           "toLabel": "Passed",
           "date": "May 18, 2026"
+        }
+      ]
+    },
+    {
+      "syncedAt": "2026-05-21T00:33:13+00:00",
+      "events": [
+        {
+          "type": "status_change",
+          "article": 61,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 20, 2026"
         }
       ]
     }

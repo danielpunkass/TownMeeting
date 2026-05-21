@@ -1,5 +1,9 @@
 # All Updates
 
+## May 20, 2026, 8:33 PM
+
+- [Article 61](../Article-61/index.md): Pending → **Passed** (May 20, 2026)
+
 ## May 18, 2026, 11:28 PM
 
 - [Article 60](../Article-60/index.md): Pending → **Passed** (May 18, 2026)
