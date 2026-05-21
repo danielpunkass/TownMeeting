@@ -1,5 +1,15 @@
 # All Updates
 
+## May 21, 2026, 12:08 AM
+
+- [Article 90](../Article-90/index.md): Pending → **Passed** (May 20, 2026)
+- [Article 91](../Article-91/index.md): Pending → **Passed**
+- [Article 92](../Article-92/index.md): Pending → **Passed** (May 20, 2026)
+- [Article 93](../Article-93/index.md): Pending → **Passed** (May 20, 2026)
+- [Article 94](../Article-94/index.md): Pending → **Passed** (May 20, 2026)
+- [Article 95](../Article-95/index.md): Pending → **Passed** (May 20, 2026)
+- [Article 96](../Article-96/index.md): Pending → **Passed** (May 20, 2026)
+
 ## May 20, 2026, 9:45 PM
 
 - [Article 87](../Article-87/index.md): Pending → **Passed** (May 20, 2026)

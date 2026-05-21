@@ -1,7 +1,7 @@
 {
   "source": "https://arlingtonma.primegov.com/Portal/Meeting?meetingTemplateId=1659",
   "meetingTemplateId": 1659,
-  "lastSynced": "2026-05-21T01:45:45+00:00",
+  "lastSynced": "2026-05-21T04:08:43+00:00",
   "articleCount": 95,
   "articles": [
     {
@@ -4321,7 +4321,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 20, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 772,
@@ -4377,7 +4384,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": null,
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 773,
@@ -4511,7 +4525,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 20, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 774,
@@ -4549,7 +4570,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 20, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 775,
@@ -4614,7 +4642,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 20, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 776,
@@ -4652,7 +4687,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 20, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 777,
@@ -4681,7 +4723,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 20, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     }
   ],
   "changeLog": [
@@ -4940,6 +4989,74 @@
         {
           "type": "status_change",
           "article": 89,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 20, 2026"
+        }
+      ]
+    },
+    {
+      "syncedAt": "2026-05-21T04:08:43+00:00",
+      "events": [
+        {
+          "type": "status_change",
+          "article": 90,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 20, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 91,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": null
+        },
+        {
+          "type": "status_change",
+          "article": 92,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 20, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 93,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 20, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 94,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 20, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 95,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 20, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 96,
           "fromCode": null,
           "toCode": "y",
           "fromLabel": null,

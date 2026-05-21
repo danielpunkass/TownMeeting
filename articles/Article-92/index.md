@@ -1,5 +1,7 @@
 # Article 92: RESOLUTION / TRANSITIONING TO CLEAN HEAT IN MASSACHUSETTS
 
+!!! success "Passed on May 20, 2026"
+
 _Inserted at the request of Patrick Hanlon and ten registered voters_
 
 ## Description
