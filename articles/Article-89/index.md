@@ -1,5 +1,7 @@
 # Article 89: RESOLUTION / HYBRID TOWN MEETING
 
+!!! success "Passed on May 20, 2026"
+
 _Inserted at the request of Alexander Bagnall and ten registered voters_
 
 ## Description
