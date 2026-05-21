@@ -1,7 +1,7 @@
 {
   "source": "https://arlingtonma.primegov.com/Portal/Meeting?meetingTemplateId=1659",
   "meetingTemplateId": 1659,
-  "lastSynced": "2026-05-21T00:50:57+00:00",
+  "lastSynced": "2026-05-21T01:20:24+00:00",
   "articleCount": 95,
   "articles": [
     {
@@ -3755,7 +3755,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 20, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 756,
@@ -3826,7 +3833,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 20, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 758,
@@ -3856,7 +3870,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 20, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 759,
@@ -4001,7 +4022,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 20, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 763,
@@ -4834,6 +4862,47 @@
         {
           "type": "status_change",
           "article": 76,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 20, 2026"
+        }
+      ]
+    },
+    {
+      "syncedAt": "2026-05-21T01:20:24+00:00",
+      "events": [
+        {
+          "type": "status_change",
+          "article": 77,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 20, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 79,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 20, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 80,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 20, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 84,
           "fromCode": null,
           "toCode": "y",
           "fromLabel": null,
