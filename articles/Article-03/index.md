@@ -1,6 +1,6 @@
 # Article 3: REPORTS OF COMMITTEES
 
-!!! warning "Tabled"
+!!! success "Passed on May 20, 2026"
 
 _Inserted at the request of the Moderator_
 

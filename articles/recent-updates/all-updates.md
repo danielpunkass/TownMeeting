@@ -1,5 +1,9 @@
 # All Updates
 
+## May 21, 2026, 11:57 AM
+
+- [Article 3](../Article-03/index.md): Tabled → **Passed** (May 20, 2026)
+
 ## May 21, 2026, 12:08 AM
 
 - [Article 90](../Article-90/index.md): Pending → **Passed** (May 20, 2026)

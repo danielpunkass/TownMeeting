@@ -2,6 +2,7 @@ nav:
   - Index: index.md
   - Completed:
     - articles/Article-02
+    - articles/Article-03
     - articles/Article-04
     - articles/Article-05
     - articles/Article-06
@@ -95,6 +96,4 @@ nav:
     - articles/Article-94
     - articles/Article-95
     - articles/Article-96
-  - On Hold:
-    - articles/Article-03
   - articles/recent-updates
