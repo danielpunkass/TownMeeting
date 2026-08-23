@@ -1,5 +1,7 @@
 # Article 47: ZONING BYLAW AMENDMENT / DEFINITION OF BUILDING HEIGHT
 
+!!! success "Passed on May 11, 2026"
+
 _Inserted at the request of the Redevelopment Board_
 
 ## Description

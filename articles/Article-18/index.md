@@ -1,5 +1,7 @@
 # Article 18: BYLAW AMENDMENT / REGULATION OF LEAD PIPE IN RESIDENTIAL AND COMMERCIAL HOUSING
 
+!!! note "No Action on April 27, 2026"
+
 _Inserted at the request of the Director of Public Works_
 
 ## Description

@@ -1,5 +1,7 @@
 # Article 81: APPROPRIATION / PENSION ADJUSTMENT FOR FORMER TWENTY- FIVE YEAR / ACCIDENTAL DISABILITY EMPLOYEES
 
+!!! success "Passed on April 27, 2026"
+
 _Inserted at the request of the Contributory Retirement Board_
 
 ## Description

@@ -1,5 +1,7 @@
 # Article 4: APPOINTMENT OF MEASURER OF WOOD AND BARK
 
+!!! success "Passed on April 27, 2026"
+
 _Inserted at the request of the Select Board_
 
 ## Description

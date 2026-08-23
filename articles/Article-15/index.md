@@ -1,5 +1,7 @@
 # Article 15: BYLAW AMENDMENT / ADOPTION OF EQUITY BYLAW PURSUANT TO MASSACHUSETTS CANNABIS CONTROL COMMISSION REGULATIONS
 
+!!! note "No Action on April 27, 2026"
+
 _Inserted at the request of the Town Manager_
 
 ## Description

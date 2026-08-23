@@ -1,5 +1,7 @@
 # Article 79: APPROPRIATION / PRIVATE WAY REPAIRS REVOLVING FUNDS
 
+!!! success "Passed on May 20, 2026"
+
 _Inserted at the request of the Town Manager_
 
 ## Description

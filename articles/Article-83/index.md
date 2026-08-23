@@ -1,5 +1,7 @@
 # Article 83: APPROPRIATION / OTHER POST EMPLOYMENT BENEFITS (OPEB) TRUST FUND
 
+!!! success "Passed on April 27, 2026"
+
 _Inserted at the request of the Finance Committee_
 
 ## Description

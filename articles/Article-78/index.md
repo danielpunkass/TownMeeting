@@ -1,5 +1,7 @@
 # Article 78: APPROPRIATION / HARRY BARBER COMMUNITY SERVICE PROGRAM
 
+!!! success "Passed on April 27, 2026"
+
 _Inserted at the request of the Council on Aging_
 
 ## Description

@@ -1,5 +1,7 @@
 # Article 58: ZONING BYLAW AMENDMENT / FRONTAGE (FAÇADE) BUILD-OUT RATIO FOR SINGLE FAMILY DWELLINGS
 
+!!! note "No Action on April 27, 2026"
+
 _Inserted at the request of Jennifer Cutraro and Fusun Yaman-Sirin and ten registered voters_
 
 ## Description

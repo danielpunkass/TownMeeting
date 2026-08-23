@@ -1,5 +1,7 @@
 # Article 52: ZONING BYLAW AMENDMENT / REZONING OF CERTAIN PARCELS FROM R-1 TO R-2
 
+!!! success "Passed on May 13, 2026"
+
 _Inserted at the request of Stephen McKenna and ten registered voters_
 
 ## Description

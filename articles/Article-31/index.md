@@ -1,5 +1,7 @@
 # Article 31: HOME RULE LEGISLATION / 61B EXEMPTION
 
+!!! success "Passed on May 4, 2026"
+
 _Inserted at the request of Carmine Granucci and ten registered voters_
 
 ## Description

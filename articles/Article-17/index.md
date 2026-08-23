@@ -1,5 +1,7 @@
 # Article 17: LOCAL OPTION / ACCEPTANCE OF M.G.L. CHAPTER 40, §22F REGARDING FEES
 
+!!! success "Passed on April 27, 2026"
+
 _Inserted at the request of the Town Manager_
 
 ## Description

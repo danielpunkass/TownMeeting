@@ -1,5 +1,7 @@
 # Article 37: DISPOSITION OF REAL ESTATE / 0 REED STREET
 
+!!! note "No Action on April 27, 2026"
+
 _Inserted at the request of David Swanson and ten registered voters_
 
 ## Description

@@ -1,5 +1,7 @@
 # Article 34: ACCEPTANCE OF LEGISLATION / WAIVER OF CANINE LICENSING FEE FOR OWNERS 70 AND OLDER
 
+!!! success "Passed on April 27, 2026"
+
 _Inserted at the request of the Town Clerk_
 
 ## Description

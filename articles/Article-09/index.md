@@ -1,5 +1,7 @@
 # Article 9: BYLAW AMENDMENT / NATIVE PLANTING ON PUBLIC LANDS
 
+!!! note "No Action on April 27, 2026"
+
 _Inserted at the request of the Department of Planning and Community Development_
 
 ## Description

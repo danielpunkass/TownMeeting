@@ -1,5 +1,7 @@
 # Article 2: STATE OF THE TOWN ADDRESS
 
+!!! success "Passed on April 27, 2026"
+
 _Inserted at the request of Envision Arlington_
 
 ## Description

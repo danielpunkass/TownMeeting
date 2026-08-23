@@ -1,5 +1,7 @@
 # Article 33: ACCEPTANCE OF LEGISLATION / M.G.L. c. 60 SECTION 62A
 
+!!! note "No Action on April 27, 2026"
+
 _Inserted at the request of Thomas Maloney and ten registered voters_
 
 ## Description

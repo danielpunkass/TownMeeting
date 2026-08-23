@@ -1,5 +1,7 @@
 # Article 72: APPROPRIATION / MINUTEMAN REGIONAL VOCATIONAL TECHNICAL HIGH SCHOOL AND OUT OF DISTRICT VOCATIONAL PLACEMENTS
 
+!!! success "Passed on May 11, 2026"
+
 _Inserted at the request of the Minuteman Regional Vocational School District Committee_
 
 ## Description
