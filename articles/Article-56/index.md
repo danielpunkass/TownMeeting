@@ -1,5 +1,7 @@
 # Article 56: ZONING BYLAW AMENDMENT / DEVELOPMENT STANDARDS – OFF STREET PARKING AND BICYCLE PARKING
 
+!!! note "No Action on April 27, 2026"
+
 _Inserted at the request of Neal Mongold and ten registered voters_
 
 ## Description

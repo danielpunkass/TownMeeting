@@ -1,5 +1,7 @@
 # Article 19: BYLAW AMENDMENT / ADDITION OF CERTAIN DELINQUENT MUNICIPAL FEES/FINES TO BE A LIEN ON REAL ESTATE TAX ACCOUNT
 
+!!! success "Passed on April 29, 2026"
+
 _Inserted at the request of the Town Manager_
 
 ## Description

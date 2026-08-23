@@ -1,5 +1,7 @@
 # Article 74: APPROPRIATION / TOWN CELEBRATIONS AND EVENTS
 
+!!! success "Passed on April 27, 2026"
+
 _Inserted at the request of the Town Manager_
 
 ## Description

@@ -1,5 +1,7 @@
 # Article 22: BYLAW AMENDMENT / USE OF AREAS UNDER CONTROL OF PARK DEPARTMENT
 
+!!! success "Passed on April 29, 2026"
+
 _Inserted at the request of Elaine Crowder and ten registered voters_
 
 ## Description

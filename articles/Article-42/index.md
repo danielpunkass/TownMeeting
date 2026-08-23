@@ -1,5 +1,7 @@
 # Article 42: ZONING BYLAW AMENDMENT / PARKING AND LOADING STANDARDS
 
+!!! success "Passed on May 4, 2026"
+
 _Inserted at the request of the Redevelopment Board_
 
 ## Description

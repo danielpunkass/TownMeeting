@@ -1,5 +1,7 @@
 # Article 7: BYLAW AMENDMENT / ARLINGTON COMMISSION FOR ARTS AND CULTURE ADMINISTRATIVE UPDATES
 
+!!! success "Passed on April 27, 2026"
+
 _Inserted at the request of the Arlington Commission for Arts and Culture and the Department of Planning and Community Development_
 
 ## Description

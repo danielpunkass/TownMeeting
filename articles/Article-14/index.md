@@ -1,5 +1,7 @@
 # Article 14: BYLAW AMENDMENT / TREE COMMITTEE RULES AND PROCEDURES
 
+!!! success "Passed on April 27, 2026"
+
 _Inserted at the request of the Arlington Tree Committee_
 
 ## Description

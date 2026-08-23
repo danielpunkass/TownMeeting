@@ -1,5 +1,7 @@
 # Article 61: POSITIONS RECLASSIFICATION
 
+!!! success "Passed on May 20, 2026"
+
 _Inserted at the request of the Director of Human Resources_
 
 ## Description

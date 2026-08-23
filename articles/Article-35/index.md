@@ -1,5 +1,7 @@
 # Article 35: ENDORSEMENT OF CDBG APPLICATION
 
+!!! success "Passed on May 4, 2026"
+
 _Inserted at the request of the Town Manager_
 
 ## Description

@@ -1,5 +1,7 @@
 # Article 80: APPROPRIATION / 51A GROVE STREET BUILDING REPAIRS
 
+!!! success "Passed on May 20, 2026"
+
 _Inserted at the request of the Town Manager_
 
 ## Description

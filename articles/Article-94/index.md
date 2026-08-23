@@ -1,5 +1,7 @@
 # Article 94: RESOLUTION / AUTOMATIC LICENSE PLATE RECOGNITION SAFEGUARDS AND DRIVER PRIVACY
 
+!!! success "Passed on May 20, 2026"
+
 _Inserted at the request of Samuel Polk and ten registered voters_
 
 ## Description

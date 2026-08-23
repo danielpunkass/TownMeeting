@@ -1,5 +1,7 @@
 # Article 16: BYLAW AMENDMENT / TOWN FEES AND CHARGES
 
+!!! success "Passed on April 29, 2026"
+
 _Inserted at the request of the Town Manager_
 
 ## Description

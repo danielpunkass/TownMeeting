@@ -1,5 +1,7 @@
 # Article 38: EXTEND THE CHARGE OF THE AFFORDABLE HOUSING OVERLAY COMMITTEE
 
+!!! success "Passed on May 4, 2026"
+
 _Inserted at the request of the Affordable Housing Overlay District (AHOD) Committee_
 
 ## Description

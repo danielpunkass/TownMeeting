@@ -1,7 +1,7 @@
 {
   "source": "https://arlingtonma.primegov.com/Portal/Meeting?meetingTemplateId=1659",
   "meetingTemplateId": 1659,
-  "lastSynced": "2026-08-23T17:53:15+00:00",
+  "lastSynced": "2026-08-23T18:27:16+00:00",
   "articleCount": 95,
   "articles": [
     {
@@ -22,7 +22,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "April 27, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 648,
@@ -42,7 +49,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 20, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 652,
@@ -62,7 +76,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "April 27, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 653,
@@ -82,7 +103,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "April 27, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 649,
@@ -112,7 +140,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "n/a",
+        "label": "No Action",
+        "date": "April 27, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 651,
@@ -142,7 +177,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "April 27, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 655,
@@ -172,7 +214,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "n/a",
+        "label": "No Action",
+        "date": "April 27, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 665,
@@ -202,7 +251,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "n/a",
+        "label": "No Action",
+        "date": "April 27, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 667,
@@ -259,7 +315,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 13, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 669,
@@ -289,7 +352,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "April 27, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 671,
@@ -319,7 +389,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "April 27, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 672,
@@ -363,7 +440,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "April 27, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 673,
@@ -402,7 +486,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "April 27, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 674,
@@ -432,7 +523,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "n/a",
+        "label": "No Action",
+        "date": "April 27, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 675,
@@ -480,7 +578,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "April 29, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 693,
@@ -514,7 +619,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "April 27, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 694,
@@ -544,7 +656,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "n/a",
+        "label": "No Action",
+        "date": "April 27, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 695,
@@ -574,7 +693,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "April 29, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 696,
@@ -604,7 +730,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "April 27, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 697,
@@ -643,7 +776,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "n/a",
+        "label": "No Action",
+        "date": "May 13, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 698,
@@ -691,7 +831,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "April 29, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 699,
@@ -879,7 +1026,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "n/a",
+        "label": "No Action",
+        "date": "April 29, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 700,
@@ -918,7 +1072,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "April 29, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 701,
@@ -957,7 +1118,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "April 29, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 702,
@@ -996,7 +1164,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "April 29, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 703,
@@ -1026,7 +1201,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "n/a",
+        "label": "No Action",
+        "date": "April 27, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 704,
@@ -1056,7 +1238,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "April 29, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 705,
@@ -1086,7 +1275,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "April 29, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 706,
@@ -1134,7 +1330,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 18, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 707,
@@ -1182,7 +1385,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 4, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 708,
@@ -1221,7 +1431,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 4, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 709,
@@ -1251,7 +1468,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "n/a",
+        "label": "No Action",
+        "date": "April 27, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 710,
@@ -1281,7 +1505,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "April 27, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 711,
@@ -1315,7 +1546,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 4, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 712,
@@ -1354,7 +1592,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 4, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 713,
@@ -1384,7 +1629,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "n/a",
+        "label": "No Action",
+        "date": "April 27, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 714,
@@ -1432,7 +1684,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 4, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 715,
@@ -1501,7 +1760,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 4, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 716,
@@ -1540,7 +1806,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 4, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 717,
@@ -1570,7 +1843,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "April 27, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 718,
@@ -1609,7 +1889,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 4, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 719,
@@ -1648,7 +1935,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 4, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 720,
@@ -1696,7 +1990,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 11, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 721,
@@ -1735,7 +2036,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "n",
+        "label": "Failed",
+        "date": "May 11, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 722,
@@ -1774,7 +2082,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 11, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 723,
@@ -1822,7 +2137,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 11, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 724,
@@ -1861,7 +2183,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 11, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 725,
@@ -1900,7 +2229,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 11, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 726,
@@ -1939,7 +2275,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 13, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 727,
@@ -1969,7 +2312,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 13, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 728,
@@ -2017,7 +2367,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 13, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 729,
@@ -2263,7 +2620,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 18, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 730,
@@ -2345,7 +2709,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "n/a",
+        "label": "No Action",
+        "date": "May 18, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 731,
@@ -2420,7 +2791,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 18, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 732,
@@ -2450,7 +2828,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "n/a",
+        "label": "No Action",
+        "date": "April 27, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 733,
@@ -2480,7 +2865,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "n/a",
+        "label": "No Action",
+        "date": "April 27, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 734,
@@ -2510,7 +2902,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "n/a",
+        "label": "No Action",
+        "date": "April 27, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 736,
@@ -2540,7 +2939,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 18, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 737,
@@ -2579,7 +2985,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 18, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 738,
@@ -2609,7 +3022,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 20, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 739,
@@ -2639,7 +3059,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 20, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 740,
@@ -2669,7 +3096,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "n/a",
+        "label": "No Action",
+        "date": "May 20, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 741,
@@ -2756,7 +3190,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 6, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 742,
@@ -2790,7 +3231,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 6, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 743,
@@ -2833,7 +3281,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 11, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 744,
@@ -2876,7 +3331,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 11, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 745,
@@ -2906,7 +3368,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "n/a",
+        "label": "No Action",
+        "date": "April 27, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 746,
@@ -2931,7 +3400,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 20, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 747,
@@ -2961,7 +3437,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "April 27, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 748,
@@ -2991,7 +3474,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "April 27, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 749,
@@ -3030,7 +3520,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 11, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 750,
@@ -3060,7 +3557,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "April 27, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 751,
@@ -3090,7 +3594,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "April 27, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 752,
@@ -3120,7 +3631,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "April 27, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 753,
@@ -3196,7 +3714,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 20, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 755,
@@ -3230,7 +3755,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 20, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 756,
@@ -3260,7 +3792,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "April 27, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 757,
@@ -3294,7 +3833,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 20, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 758,
@@ -3324,7 +3870,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 20, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 759,
@@ -3354,7 +3907,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "April 27, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 760,
@@ -3384,7 +3944,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "n/a",
+        "label": "No Action",
+        "date": "April 27, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 761,
@@ -3414,7 +3981,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "April 27, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 762,
@@ -3448,7 +4022,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 20, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 763,
@@ -3478,7 +4059,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "April 27, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 764,
@@ -3508,7 +4096,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "April 27, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 765,
@@ -3538,7 +4133,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 20, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 769,
@@ -3563,7 +4165,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "April 27, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 770,
@@ -3592,7 +4201,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 20, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 771,
@@ -3705,7 +4321,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 20, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 772,
@@ -3761,7 +4384,14 @@
           ]
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": null,
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 773,
@@ -3895,7 +4525,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 20, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 774,
@@ -3933,7 +4570,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 20, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 775,
@@ -3998,7 +4642,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 20, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 776,
@@ -4036,7 +4687,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 20, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     },
     {
       "itemId": 777,
@@ -4065,7 +4723,14 @@
           "pdfLinks": []
         }
       ],
-      "status": "pending"
+      "status": "disposed",
+      "disposition": {
+        "code": "y",
+        "label": "Passed",
+        "date": "May 20, 2026",
+        "yesVotes": null,
+        "noVotes": null
+      }
     }
   ],
   "changeLog": [
@@ -8431,6 +9096,866 @@
           "fromLabel": "Passed",
           "toLabel": null,
           "date": null
+        }
+      ]
+    },
+    {
+      "syncedAt": "2026-08-23T18:27:16+00:00",
+      "events": [
+        {
+          "type": "status_change",
+          "article": 2,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "April 27, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 3,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 20, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 4,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "April 27, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 5,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "April 27, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 6,
+          "fromCode": null,
+          "toCode": "n/a",
+          "fromLabel": null,
+          "toLabel": "No Action",
+          "date": "April 27, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 7,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "April 27, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 8,
+          "fromCode": null,
+          "toCode": "n/a",
+          "fromLabel": null,
+          "toLabel": "No Action",
+          "date": "April 27, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 9,
+          "fromCode": null,
+          "toCode": "n/a",
+          "fromLabel": null,
+          "toLabel": "No Action",
+          "date": "April 27, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 10,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 13, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 11,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "April 27, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 12,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "April 27, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 13,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "April 27, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 14,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "April 27, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 15,
+          "fromCode": null,
+          "toCode": "n/a",
+          "fromLabel": null,
+          "toLabel": "No Action",
+          "date": "April 27, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 16,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "April 29, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 17,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "April 27, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 18,
+          "fromCode": null,
+          "toCode": "n/a",
+          "fromLabel": null,
+          "toLabel": "No Action",
+          "date": "April 27, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 19,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "April 29, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 20,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "April 27, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 21,
+          "fromCode": null,
+          "toCode": "n/a",
+          "fromLabel": null,
+          "toLabel": "No Action",
+          "date": "May 13, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 22,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "April 29, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 23,
+          "fromCode": null,
+          "toCode": "n/a",
+          "fromLabel": null,
+          "toLabel": "No Action",
+          "date": "April 29, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 24,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "April 29, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 25,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "April 29, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 26,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "April 29, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 27,
+          "fromCode": null,
+          "toCode": "n/a",
+          "fromLabel": null,
+          "toLabel": "No Action",
+          "date": "April 27, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 28,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "April 29, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 29,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "April 29, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 30,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 18, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 31,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 4, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 32,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 4, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 33,
+          "fromCode": null,
+          "toCode": "n/a",
+          "fromLabel": null,
+          "toLabel": "No Action",
+          "date": "April 27, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 34,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "April 27, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 35,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 4, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 36,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 4, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 37,
+          "fromCode": null,
+          "toCode": "n/a",
+          "fromLabel": null,
+          "toLabel": "No Action",
+          "date": "April 27, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 38,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 4, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 39,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 4, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 40,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 4, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 41,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "April 27, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 42,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 4, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 43,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 4, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 44,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 11, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 45,
+          "fromCode": null,
+          "toCode": "n",
+          "fromLabel": null,
+          "toLabel": "Failed",
+          "date": "May 11, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 46,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 11, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 47,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 11, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 48,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 11, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 49,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 11, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 50,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 13, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 51,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 13, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 52,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 13, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 53,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 18, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 54,
+          "fromCode": null,
+          "toCode": "n/a",
+          "fromLabel": null,
+          "toLabel": "No Action",
+          "date": "May 18, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 55,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 18, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 56,
+          "fromCode": null,
+          "toCode": "n/a",
+          "fromLabel": null,
+          "toLabel": "No Action",
+          "date": "April 27, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 57,
+          "fromCode": null,
+          "toCode": "n/a",
+          "fromLabel": null,
+          "toLabel": "No Action",
+          "date": "April 27, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 58,
+          "fromCode": null,
+          "toCode": "n/a",
+          "fromLabel": null,
+          "toLabel": "No Action",
+          "date": "April 27, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 59,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 18, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 60,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 18, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 61,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 20, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 62,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 20, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 63,
+          "fromCode": null,
+          "toCode": "n/a",
+          "fromLabel": null,
+          "toLabel": "No Action",
+          "date": "May 20, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 64,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 6, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 65,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 6, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 66,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 11, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 67,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 11, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 68,
+          "fromCode": null,
+          "toCode": "n/a",
+          "fromLabel": null,
+          "toLabel": "No Action",
+          "date": "April 27, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 69,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 20, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 70,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "April 27, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 71,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "April 27, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 72,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 11, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 73,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "April 27, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 74,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "April 27, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 75,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "April 27, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 76,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 20, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 77,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 20, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 78,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "April 27, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 79,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 20, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 80,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 20, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 81,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "April 27, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 82,
+          "fromCode": null,
+          "toCode": "n/a",
+          "fromLabel": null,
+          "toLabel": "No Action",
+          "date": "April 27, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 83,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "April 27, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 84,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 20, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 85,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "April 27, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 86,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "April 27, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 87,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 20, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 88,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "April 27, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 89,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 20, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 90,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 20, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 91,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": null
+        },
+        {
+          "type": "status_change",
+          "article": 92,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 20, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 93,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 20, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 94,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 20, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 95,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 20, 2026"
+        },
+        {
+          "type": "status_change",
+          "article": 96,
+          "fromCode": null,
+          "toCode": "y",
+          "fromLabel": null,
+          "toLabel": "Passed",
+          "date": "May 20, 2026"
         }
       ]
     }
