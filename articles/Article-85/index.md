@@ -1,7 +1,5 @@
 # Article 85: APPROPRIATION / OVERLAY RESERVE
 
-!!! success "Passed on April 27, 2026"
-
 _Inserted at the request of the Finance Committee_
 
 ## Description

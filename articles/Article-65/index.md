@@ -1,7 +1,5 @@
 # Article 65: CAPITAL BUDGET
 
-!!! success "Passed on May 6, 2026"
-
 _Inserted at the request of the Select Board, and at the request of the Town Manager and the Capital Planning Committee_
 
 ## Description

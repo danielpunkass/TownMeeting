@@ -1,7 +1,5 @@
 # Article 21: BYLAW AMENDMENT / HOME EQUITY THEFT BAN
 
-!!! note "No Action on May 13, 2026"
-
 _Inserted at the request of Guillermo Hamlin and ten registered voters_
 
 ## Description

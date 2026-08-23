@@ -1,7 +1,5 @@
 # Article 28: HOME RULE LEGISLATION / ADDITIONAL ON PREMISES ALL ALCOHOL LICENSES
 
-!!! success "Passed on April 29, 2026"
-
 _Inserted at the request of the Select Board_
 
 ## Description

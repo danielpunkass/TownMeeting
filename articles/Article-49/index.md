@@ -1,7 +1,5 @@
 # Article 49: ZONING BYLAW AMENDMENT / HOME OCCUPATIONS
 
-!!! success "Passed on May 11, 2026"
-
 _Inserted at the request of James Fleming and Andrew Greenspon and ten registered voters_
 
 ## Description

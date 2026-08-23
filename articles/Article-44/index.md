@@ -1,7 +1,5 @@
 # Article 44: ZONING BYLAW AMENDMENT / FLOODPLAIN DISTRICT
 
-!!! success "Passed on May 11, 2026"
-
 _Inserted at the request of the Redevelopment Board_
 
 ## Description

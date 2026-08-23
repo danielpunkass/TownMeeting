@@ -1,7 +1,5 @@
 # Article 54: ZONING BYLAW AMENDMENT / TRAFFIC VISIBILITY
 
-!!! note "No Action on May 18, 2026"
-
 _Inserted at the request of Caitlin Monaghan and ten registered voters_
 
 ## Description

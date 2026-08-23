@@ -1,7 +1,5 @@
 # Article 95: RESOLUTION / CONCERNING ICE FACILITY
 
-!!! success "Passed on May 20, 2026"
-
 _Inserted at the request of Guillermo Hamlin and ten registered voters_
 
 ## Description

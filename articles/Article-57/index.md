@@ -1,7 +1,5 @@
 # Article 57: ZONING BYLAW AMENDMENT / DEVELOPMENT STANDARDS-- BONUSES
 
-!!! note "No Action on April 27, 2026"
-
 _Inserted at the request of Neal Mongold and ten registered voters_
 
 ## Description

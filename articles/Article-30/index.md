@@ -1,7 +1,5 @@
 # Article 30: HOME RULE LEGISLATION / REPEAL MBTA PROHIBITION
 
-!!! success "Passed on May 18, 2026"
-
 _Inserted at the request of Paul Schlichtman and ten registered voters_
 
 ## Description
