@@ -1,7 +1,5 @@
 # Article 91: RESOLUTION / MEDICARE FOR ALL
 
-!!! success "Passed"
-
 _Inserted at the request of Greg Dennis and ten registered voters_
 
 ## Description

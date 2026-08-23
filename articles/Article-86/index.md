@@ -1,7 +1,5 @@
 # Article 86: APPROPRIATION / LONG TERM STABILIZATION FUND
 
-!!! success "Passed on April 27, 2026"
-
 _Inserted at the request of the Finance Committee_
 
 ## Description

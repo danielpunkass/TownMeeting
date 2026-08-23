@@ -1,7 +1,5 @@
 # Article 5: ELECTION OF ASSISTANT TOWN MODERATOR
 
-!!! success "Passed on April 27, 2026"
-
 _Inserted at the request of the Town Moderator_
 
 ## Description

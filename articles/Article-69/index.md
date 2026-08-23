@@ -1,7 +1,5 @@
 # Article 69: APPROPRIATION / TRANSPORTATION INFRASTRUCTURE FUND
 
-!!! success "Passed on May 20, 2026"
-
 _Inserted at the request of the Town Manager_
 
 ## Description

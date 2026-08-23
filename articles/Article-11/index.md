@@ -1,7 +1,5 @@
 # Article 11: BYLAW AMENDMENT / WETLANDS BYLAW ENFORCEMENT
 
-!!! success "Passed on April 27, 2026"
-
 _Inserted at the request of the Conservation Commission_
 
 ## Description

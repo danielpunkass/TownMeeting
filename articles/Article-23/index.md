@@ -1,7 +1,5 @@
 # Article 23: BYLAW AMENDMENT / TREE PRESERVATION AND PROTECTION
 
-!!! note "No Action on April 29, 2026"
-
 _Inserted at the request of Jennifer Cutraro and Robin Bergman and ten registered voters_
 
 ## Description

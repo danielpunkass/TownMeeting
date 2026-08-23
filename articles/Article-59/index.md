@@ -1,7 +1,5 @@
 # Article 59: APPROPRIATION / PEG ACCESS BUDGET
 
-!!! success "Passed on May 18, 2026"
-
 _Inserted at the request of the Town Manager_
 
 ## Description

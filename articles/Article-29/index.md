@@ -1,7 +1,5 @@
 # Article 29: HOME RULE LEGISLATION / RECALL ELECTIONS
 
-!!! success "Passed on April 29, 2026"
-
 _Inserted at the request of the Town Clerk_
 
 ## Description

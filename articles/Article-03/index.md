@@ -1,7 +1,5 @@
 # Article 3: REPORTS OF COMMITTEES
 
-!!! success "Passed on May 20, 2026"
-
 _Inserted at the request of the Moderator_
 
 ## Description

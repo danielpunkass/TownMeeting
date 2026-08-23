@@ -1,7 +1,5 @@
 # Article 90: RESOLUTION / COMPREHENSIVE PLAN ENDORSEMENT
 
-!!! success "Passed on May 20, 2026"
-
 _Inserted at the request of the Department of Planning and Community Development_
 
 ## Description

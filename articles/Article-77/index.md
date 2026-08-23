@@ -1,7 +1,5 @@
 # Article 77: APPROPRIATION / COMMUNITY PRESERVATION FUND
 
-!!! success "Passed on May 20, 2026"
-
 _Inserted at the request of the Community Preservation Act Committee_
 
 ## Description
