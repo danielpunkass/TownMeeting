@@ -1,5 +1,7 @@
 # Article 26: BYLAW AMENDMENT / RECYCLING REVOLVING FUND
 
+!!! success "Passed on April 29, 2026"
+
 _Inserted at the request of the Town Manager_
 
 ## Description

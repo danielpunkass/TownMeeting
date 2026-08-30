@@ -1,5 +1,7 @@
 # Article 27: VOTE / ENVISION ARLINGTON STANDING COMMITTEE QUORUM
 
+!!! note "No Action on April 27, 2026"
+
 _Inserted at the request of the Envision Arlington Standing Committee_
 
 ## Description

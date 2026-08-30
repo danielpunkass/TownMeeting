@@ -1,5 +1,7 @@
 # Article 8: BYLAW AMENDMENT / REGULATION OF OUTDOOR LIGHTING
 
+!!! note "No Action on April 27, 2026"
+
 _Inserted at the request of the Department of Planning and Community Development_
 
 ## Description

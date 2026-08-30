@@ -1,5 +1,7 @@
 # Article 13: BYLAW AMENDMENT / ADOPTION OF UPDATED VERSION OF TOWN MEETING TIME
 
+!!! success "Passed on April 27, 2026"
+
 _Inserted at the request of the Town Meeting Procedures Committee_
 
 ## Description

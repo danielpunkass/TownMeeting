@@ -1,5 +1,7 @@
 # Article 76: APPROPRIATION / WATER BODIES FUND
 
+!!! success "Passed on May 20, 2026"
+
 _Inserted at the request of the Envision Arlington Standing Committee and its Spy Pond and Reservoir Task Groups, and the Arlington Conservation Commission_
 
 ## Description

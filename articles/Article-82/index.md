@@ -1,5 +1,7 @@
 # Article 82: LOCAL OPTION TAXES
 
+!!! note "No Action on April 27, 2026"
+
 _Inserted at the request of of the Finance Committee_
 
 ## Description

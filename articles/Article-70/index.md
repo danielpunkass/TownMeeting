@@ -1,5 +1,7 @@
 # Article 70: APPROPRIATION / FINANCING OF CONSTRUCTION OR RECONSTRUCTION OF SEWERS AND SEWERAGE FACILITIES
 
+!!! success "Passed on April 27, 2026"
+
 _Inserted at the request of the Town Manager and the Director of Public Works_
 
 ## Description

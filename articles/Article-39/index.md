@@ -1,5 +1,7 @@
 # Article 39: ZONING BYLAW AMENDMENT/ ADMINISTRATIVE CLARIFICATION TO ACCESSORY DWELLING UNITS
 
+!!! success "Passed on May 4, 2026"
+
 _Inserted at the request of the Redevelopment Board_
 
 ## Description

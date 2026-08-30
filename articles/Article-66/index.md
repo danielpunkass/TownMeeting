@@ -1,5 +1,7 @@
 # Article 66: CAPITAL BUDGET / OTTOSON MIDDLE SCHOOL FEASIBILITY STUDY
 
+!!! success "Passed on May 11, 2026"
+
 _Inserted at the request of the Select Board, and at the request of the Town Manager, the School Committee and the Capital Planning Committee_
 
 ## Description

@@ -1,5 +1,7 @@
 # Article 20: BYLAW AMENDMENT / CANINE CONTROL
 
+!!! success "Passed on April 27, 2026"
+
 _Inserted at the request of the Town Clerk_
 
 ## Description

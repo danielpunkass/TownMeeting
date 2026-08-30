@@ -1,5 +1,7 @@
 # Article 75: APPROPRIATION / MISCELLANEOUS
 
+!!! success "Passed on April 27, 2026"
+
 _Inserted at the request of the Town Manager_
 
 ## Description

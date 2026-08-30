@@ -1,5 +1,7 @@
 # Article 25: BYLAW AMENDMENT / COMMUNITY CENTER REVOLVING FUND
 
+!!! success "Passed on April 29, 2026"
+
 _Inserted at the request of the Town Manager_
 
 ## Description

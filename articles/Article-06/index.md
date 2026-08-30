@@ -1,5 +1,7 @@
 # Article 6: REMOVAL OF A PUBLIC SHADE TREE
 
+!!! note "No Action on April 27, 2026"
+
 _Inserted at the request of Paul Pandolfo and ten registered voters_
 
 ## Description

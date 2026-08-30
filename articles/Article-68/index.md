@@ -1,5 +1,7 @@
 # Article 68: RESCIND PRIOR BORROWING AUTHORIZATIONS
 
+!!! note "No Action on April 27, 2026"
+
 _Inserted at the request of the Town Treasurer_
 
 ## Description
