@@ -1,7 +1,5 @@
 # Article 87: USE OF FREE CASH
 
-!!! success "Passed on May 20, 2026"
-
 _Inserted at the request of the Finance Committee_
 
 ## Description

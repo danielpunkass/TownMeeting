@@ -1,7 +1,5 @@
 # Article 93: RESOLUTION / DESIGNATING ARLINGTON A 4TH AMENDMENT WORKPLACE COMMUNITY
 
-!!! success "Passed on May 20, 2026"
-
 _Inserted at the request of Linda Hanson and Elizabeth Dray and ten registered voters_
 
 ## Description

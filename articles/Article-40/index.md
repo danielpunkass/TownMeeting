@@ -1,7 +1,5 @@
 # Article 40: ZONING BYLAW AMENDMENT / ZONING MAP CHANGE REQUIREMENTS
 
-!!! success "Passed on May 4, 2026"
-
 _Inserted at the request of the Redevelopment Board_
 
 ## Description

@@ -1,7 +1,5 @@
 # Article 12: BYLAW AMENDMENT / TOWN MEETING PROCEDURES COMMITTEE ROLLING MEMBERSHIP APPOINTMENTS
 
-!!! success "Passed on April 27, 2026"
-
 _Inserted at the request of the Town Meeting Procedures Committee_
 
 ## Description

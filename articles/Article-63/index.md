@@ -1,7 +1,5 @@
 # Article 63: AMENDMENTS TO FY26 BUDGETS
 
-!!! note "No Action on May 20, 2026"
-
 _Inserted at the request of the Town Manager_
 
 ## Description

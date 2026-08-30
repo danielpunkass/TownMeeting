@@ -1,7 +1,5 @@
 # Article 96: RESOLUTION / PROHIBIT FIRST GENERATION ANTICOAGULANT RODENTICIDES AND BROMETHALIN
 
-!!! success "Passed on May 20, 2026"
-
 _Inserted at the request of Suzanne Chiarito and ten registered voters_
 
 ## Description

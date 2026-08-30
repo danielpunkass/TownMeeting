@@ -1,7 +1,5 @@
 # Article 64: APPROPRIATION / TOWN BUDGETS
 
-!!! success "Passed on May 6, 2026"
-
 _Inserted at the request of the Town Manager_
 
 ## Description

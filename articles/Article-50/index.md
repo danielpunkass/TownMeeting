@@ -1,7 +1,5 @@
 # Article 50: ZONING BYLAW AMENDMENT / AMENDMENT TO ARLINGTON ZONING MAP
 
-!!! success "Passed on May 13, 2026"
-
 _Inserted at the request of Mary Winstanley and ten registered voters_
 
 ## Description

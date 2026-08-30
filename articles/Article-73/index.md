@@ -1,7 +1,5 @@
 # Article 73: APPROPRIATION / COMMITTEES AND COMMISSIONS
 
-!!! success "Passed on April 27, 2026"
-
 _Inserted at the request of the Town Manager_
 
 ## Description

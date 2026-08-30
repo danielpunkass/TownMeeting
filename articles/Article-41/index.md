@@ -1,7 +1,5 @@
 # Article 41: ZONING BYLAW AMENDMENT / ADMINISTRATIVE CORRECTION TO MULTI-FAMILY HOUSING OVERLAY DISTRICT STANDARDS
 
-!!! success "Passed on April 27, 2026"
-
 _Inserted at the request of the Redevelopment Board_
 
 ## Description

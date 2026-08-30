@@ -1,7 +1,5 @@
 # Article 60: ENDORSEMENT OF PARKING BENEFIT DISTRICT EXPENDITURES
 
-!!! success "Passed on May 18, 2026"
-
 _Inserted at the request of the Town Manager_
 
 ## Description
